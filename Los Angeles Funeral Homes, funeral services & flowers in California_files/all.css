@@ -1887,8 +1887,7 @@ table {
 
 .result-holder {
 	position: relative;
-	min-width: auto;
-    min-height: auto;
+	margin-top: 22px!important;
 }
 
 .result-holder .title {
